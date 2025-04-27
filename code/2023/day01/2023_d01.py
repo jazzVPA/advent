@@ -26,5 +26,5 @@ def extract_calibration_values(filepath: str)-> int:
     return 0
 
 if __name__ == "__main__":
-    file_path = 'input.txt'
+    file_path = '2023_d01_input.txt'
     extract_calibration_values(file_path)

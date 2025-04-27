@@ -27,4 +27,4 @@ def calculate_total_distance(filepath: str)-> int:
 
 
 if __name__ == "__main__":
-    print("Total distance:",calculate_total_distance('input.txt'))
+    print("Total distance:",calculate_total_distance('2024_d01_input.txt'))

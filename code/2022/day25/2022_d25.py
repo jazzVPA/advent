@@ -17,7 +17,7 @@ def convert_full_file_to_SNAFU(filepath: str):
 
 
 if __name__ == '__main__':
-    data = convert_full_file_to_SNAFU('input.txt')
+    data = convert_full_file_to_SNAFU('2022_d25_input.txt')
 
     # Print headers
     print(f"{'decimal':<10} {'SNAFU':<10}")
