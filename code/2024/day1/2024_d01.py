@@ -1,6 +1,5 @@
 
 def calculate_total_distance(filepath: str)-> int:
-
     left_numbers = []
     right_numbers = []
 
